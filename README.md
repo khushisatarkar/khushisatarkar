@@ -6,7 +6,7 @@ A Computer Engineering student passionate about software development
 
 💻 Working with Python, Flutter, JavaScript, and more
 
-📚 Lifelong learner, exploring Data Science & Web Development
+📚 Lifelong learner, exploring AI-ML, Data Science & Web Development
 
 💃 Always curious, always growing
 
