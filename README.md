@@ -2,7 +2,7 @@
 A Computer Engineering student passionate about software development
 
 ### Quick Facts
-🎓 TE Computer Engineering @ SPPU
+🎓 Final Year Computer Engineering @ SPPU
 
 💻 Working with Python, Flutter, JavaScript, and more.
 
