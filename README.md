@@ -27,6 +27,6 @@ A Computer Engineering student passionate about software development
 - 💼 [My Portfolio Website](https://my-portfolio-57985.web.app/) – A responsive personal website showcasing my skills, projects, and contact info.
 - 📊 [Data Science Projects](https://github.com/khushisatarkar/MLP-Digit-Classification) – A neural network model built using Python to classify handwritten digits from the Scikit Learn dataset.
 - 📱 [Flutter Apps](https://github.com/khushisatarkar/Flutter-Calculator) – A simple yet functional calculator app built with Flutter, demonstrating UI design and state management.
-- 🤖 [Machine Learning](https://github.com/khushisatarkar/VisualDescriptionSystem) – An assistive AI tool that generates real-time audio descriptions of images using computer vision and NLP, built with Python and deep learning.
+- 🤖 [Machine Learning](https://github.com/khushisatarkar/VisualDescriptionSystem) – An assistive AI tool that generates real-time visual descriptions of images using computer vision and NLP, built with Python and deep learning.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khushi-satarkar-039056254/) | [Email](mailto:khushisatarkar24@gmail.com)
