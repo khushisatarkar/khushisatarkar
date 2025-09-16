@@ -23,6 +23,8 @@ A Computer Engineering student passionate about software development
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushisatarkar&theme=radical)
+
 ### Projects
 - 💼 [My Portfolio Website](https://my-portfolio-57985.web.app/) – A responsive personal website showcasing my skills, projects, and contact info.
 - 📊 [Data Science Projects](https://github.com/khushisatarkar/MLP-Digit-Classification) – A neural network model built using Python to classify handwritten digits from the Scikit Learn dataset.
